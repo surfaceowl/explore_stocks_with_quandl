@@ -10,7 +10,7 @@ import numpy as np
 
 # setup required -- establish a Quandl account, and get an API key;
 # set this up in your environment variables; restart your computer if necessary
-QUANDL_PERSONAL_API_KEY = os.environ.get("QUANDL_PERSONAL_API_KEY")
+quandl.ApiConfig.api_key = os.environ.get("quandl.ApiConfig.api_key")
 
 # set variables for the tickers we want to include in our portfolio, and
 # the start/end dates for the historic trading data we want to pull

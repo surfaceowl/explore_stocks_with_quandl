@@ -3,10 +3,17 @@
     <words>
       <w>aapl</w>
       <w>amzn</w>
+      <w>autopep</w>
+      <w>bokeh</w>
       <w>goog</w>
+      <w>hvplot</w>
       <w>jupyter</w>
+      <w>jupyterlab</w>
       <w>nvda</w>
+      <w>prettypandas</w>
       <w>quandl</w>
+      <w>seaborn</w>
+      <w>technify</w>
       <w>tsla</w>
     </words>
   </dictionary>

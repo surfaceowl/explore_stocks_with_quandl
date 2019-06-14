@@ -1,2 +1,3 @@
 venv/
-quandl_test.csv
+env/
+data/*.csv

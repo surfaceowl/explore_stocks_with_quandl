@@ -16,7 +16,7 @@ from src.utilities import config_logging
 # set this up in your environment variables; restart your computer if necessary
 config_logging()
 try:
-    quandl.ApiConfig.api_key = os.environ.get("quandl.ApiConfig.api_key")
+    quandl.ApiConfig.api_key = os.environ.get("QUANDL_API_KEY")
 except OSError:
     logging.error("Your Quandl API key is not configured correctly", OSError)
 
@@ -89,6 +89,7 @@ def create_efficient_frontier(selected_tickers, period_start_date, period_end_da
 
     # reorder DataFrame columns
     df = df[column_order]
+    print(df.head(5))
 
     # export results to a file, to explore in a jupyter notebook
     df.to_csv("data/quandl_test2.csv", sep=',', encoding='utf-8')
@@ -108,6 +109,10 @@ if __name__ == '__main__':
     start_date = "2019-01-01"
     end_date = "2019-06-01"
 
-    create_efficient_frontier(selected_tickers=tickers,
-                              period_start_date=start_date,
-                              period_end_date=end_date)
+    ticker_list, results = create_efficient_frontier(selected_tickers=tickers,
+                                                     period_start_date=start_date,
+                                                     period_end_date=end_date)
+
+    print("ticker list:", ticker_list)
+
+    print("results: ", results.head(5))

@@ -1,6 +1,6 @@
 ### Explore the potential efficient frontier of a stock portfolio with different weights of custom stocks
 
-Requires a free [Quandl account](https://www.quandl.com/) for an API Key to retrieve historic stock data.  
+Requires a free [Quandl account](https://www.quandl.com/) for an API Key to retrieve historic stock data.  Add the env var `QUANDL_API_KEY` and your unique API key from Quandl to your environment variables.
 
 #### How to use:
 

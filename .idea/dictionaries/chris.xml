@@ -5,13 +5,20 @@
       <w>amzn</w>
       <w>autopep</w>
       <w>bokeh</w>
+      <w>cufflinks</w>
+      <w>cython</w>
       <w>goog</w>
       <w>hvplot</w>
+      <w>iexfinance</w>
       <w>jupyter</w>
       <w>jupyterlab</w>
+      <w>matplotlib</w>
       <w>nvda</w>
+      <w>openpyxl</w>
+      <w>plotly</w>
       <w>prettypandas</w>
       <w>quandl</w>
+      <w>scipy</w>
       <w>seaborn</w>
       <w>technify</w>
       <w>tsla</w>

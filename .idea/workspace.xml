@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="43b3e00a-b7df-4963-838f-94729d00aa98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/nb_python_efficient_frontier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/nb_quandl-exploration-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/np_TA-Lib_experiments-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb_python_efficient_frontier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb_quandl-exploration.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/np_TA-Lib_experiments.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="6" column="3" selection-start-line="6" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -49,11 +56,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nb_python_efficient_frontier.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
@@ -254,12 +256,12 @@
       <workItem from="1560631331945" duration="1298000" />
       <workItem from="1560733883029" duration="500000" />
       <workItem from="1560738154165" duration="682000" />
-      <workItem from="1560825920091" duration="119000" />
+      <workItem from="1560825920091" duration="1330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13413000" />
+    <option name="totallyTimeSpent" value="14624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="27" width="1538" height="873" extended-state="6" />
@@ -351,13 +353,6 @@
     <entry file="file://$PROJECT_DIR$/np_TA-Lib_experiments.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/retrieve_stock_history.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1480">
@@ -385,6 +380,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" selection-start-line="6" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>

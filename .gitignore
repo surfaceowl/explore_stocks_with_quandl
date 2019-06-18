@@ -1,3 +1,6 @@
 venv/
 env/
 data/*.csv
+
+# ignore all issues created by Dropbox
+.git (Selective Sync Conflict)

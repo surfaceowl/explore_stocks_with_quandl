@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b3e00a-b7df-4963-838f-94729d00aa98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/nb_python_efficient_frontier-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/nb_quandl-exploration-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/np_TA-Lib_experiments-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nb_python_efficient_frontier.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nb_quandl-exploration.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/np_TA-Lib_experiments.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/np04_IEX_TA-Lib_experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/np04_IEX_TA-Lib_experiments.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/retrieve_stock_history.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1480">
+            <state relative-caret-position="1620">
               <caret line="81" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="e#138#152#0" expanded="true" />
@@ -138,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,7 +143,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,15 +250,15 @@
       <workItem from="1560733883029" duration="500000" />
       <workItem from="1560738154165" duration="682000" />
       <workItem from="1560825920091" duration="1330000" />
+      <workItem from="1562802410265" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14624000" />
+    <option name="totallyTimeSpent" value="14635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="27" width="1538" height="873" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -315,8 +308,8 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/explore_stocks_with_quandl$retrieve_stock_history.coverage" NAME="retrieve_stock_history Coverage Results" MODIFIED="1560622409880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/explore_stocks_with_quandl$scratch_python.coverage" NAME="scratch_python Coverage Results" MODIFIED="1560622400463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/explore_stocks_with_quandl$retrieve_stock_history.coverage" NAME="retrieve_stock_history Coverage Results" MODIFIED="1560622409880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/quandl/api_config.py" />
@@ -337,9 +330,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/python_efficient_frontier.ipynb" />
-    <entry file="file://$PROJECT_DIR$/nb_quandl-exploration.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nb_quandl-exploration.ipynb" />
     <entry file="file://$PROJECT_DIR$/src/scratch_python.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -350,12 +341,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/np_TA-Lib_experiments.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
+    <entry file="file://$PROJECT_DIR$/np_TA-Lib_experiments.ipynb" />
+    <entry file="file://$PROJECT_DIR$/nb_python_efficient_frontier.ipynb" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" selection-start-line="6" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/retrieve_stock_history.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1480">
+        <state relative-caret-position="1620">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#138#152#0" expanded="true" />
@@ -373,20 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nb_python_efficient_frontier.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="3" selection-start-line="6" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>

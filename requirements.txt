@@ -1,19 +1,19 @@
 autopep8==1.4.4
 bokeh==1.2.0
 colorlover==0.3.0
-cufflinks==0.15
-Cython==0.29.10
+cufflinks==0.16
+Cython==0.29.12
 hvplot==0.4.0
-iexfinance==0.4.1
+iexfinance==0.4.2
 jupyter==1.0.0
-jupyterlab==0.35.6
-matplotlib==3.1.0
+jupyterlab==1.0.2
+matplotlib==3.1.1
 numpy==1.16.4
 openpyxl==2.6.2      # read/write excel files
 pandas==0.24.2
 pandas-ta==0.1.32b   # https://github.com/twopirllc/pandas-ta
 plotly==3.10.0
-plotly-express==0.3.0
+plotly-express==0.3.1
 prettypandas==0.0.4
 pur==5.2.2           # update package versions; from cli pur -i -r requirements.txt
 quandl==3.4.8        # requires API key from provider and in ENV VAR
